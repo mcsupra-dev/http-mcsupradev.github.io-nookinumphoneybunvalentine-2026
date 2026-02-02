@@ -35,5 +35,5 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 noBtn.addEventListener("click", () => {
-  alert("🥺 Please reconsider... I'm actually really cool I promise!");
+  alert("PS all No responses will automaticlaly be switched to YASES 😉😘");
 });
